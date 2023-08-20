@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhadiraza" alt="mhadiraza" /></a> </p>
 
+- 🔭 I’m currently working on **Python Projects**
+
+- 🌱 I’m currently learning **Data Science And Machine Learning**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 💬 Ask me about **Python**
+
 - 📫 How to reach me **hadiraza.t05@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
@@ -22,5 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhadiraza&show_icons=true&locale=en" alt="mhadiraza" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhadiraza&" alt="mhadiraza" /></p>
-
--->
